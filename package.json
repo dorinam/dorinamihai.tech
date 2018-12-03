@@ -1,0 +1,39 @@
+{
+  "name": "coming-soon",
+  "version": "1.0.0",
+  "description": "Info website: Moving from .TECH to .COM",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "projects",
+    "coming",
+    "soon",
+    "portfolio",
+    "web",
+    "development",
+    "programming",
+    "software",
+    "development",
+    "website",
+    "bootstrap",
+    "git"
+  ],
+  "author": "Dorina Mihai",
+  "license": "ISC",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.1.0",
+    "lite-server": "^2.4.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "fontawesome": "^4.7.2",
+    "jquery": "^3.3.1",
+    "popper": "^1.0.1"
+  }
+}
